@@ -82,7 +82,7 @@ const menu = [
 ];
 
 const sectionCenter = document.querySelector(".section-center");
-const container = document.querySelector(".btn-container")
+const container = document.querySelector(".btn-container");
 
 // load items
 window.addEventListener("DOMContentLoaded", () => {
